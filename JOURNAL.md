@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 13.5h | 4 |
+| Week 3 | Tier 1 | 13.7h | 4 |
 
 ## Contents
 
@@ -89,7 +89,7 @@ so many traces in this area lol
 
 ### 2026-10-25 – Days never ending, master got me working
 
-**5.2h**
+**5.4h**
 
 Days never ending, master got me working
 
@@ -112,3 +112,5 @@ Thanks for reading
 ![Screenshot 2026-10-25 at 12.51.03](https://halflife.hackclub-assets.com/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/fe5115286420c51cb7e8f6cff288d3b673e361db623393147fe73f9a673a401a.png)
 
 ![Screenshot 2026-10-25 at 12.51.12](https://halflife.hackclub-assets.com/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/045118abff861af9a8f62f2132189a69245292dff3a78d3056bc76c9263ad44c.png)
+
+EDIT: added 20 minutes because i made a reel and i need coins so
